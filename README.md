@@ -23,4 +23,6 @@ Ce projet est une application Java pour la gestion des produits utilisant Hibern
 - NetBeans
 
  ## vidéo
+ https://github.com/user-attachments/assets/91576ca7-c3f1-4ab9-8dac-88a7fda3fce5
+
 
