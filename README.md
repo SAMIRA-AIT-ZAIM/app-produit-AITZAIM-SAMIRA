@@ -22,4 +22,5 @@ Ce projet est une application Java pour la gestion des produits utilisant Hibern
 - MySQL
 - NetBeans
 
- 
+ ## vidéo
+
